@@ -1,0 +1,3 @@
+/media/erli/3be200e4-f4a3-4ec6-9e05-b18f1d597df2/proj_soc/soc/cache_model/simple_cache/CMakeFiles/rebuild_cache.dir
+/media/erli/3be200e4-f4a3-4ec6-9e05-b18f1d597df2/proj_soc/soc/cache_model/simple_cache/CMakeFiles/CacheSim.dir
+/media/erli/3be200e4-f4a3-4ec6-9e05-b18f1d597df2/proj_soc/soc/cache_model/simple_cache/CMakeFiles/edit_cache.dir

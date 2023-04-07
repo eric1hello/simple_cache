@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -Wall   CMakeFiles/CacheSim.dir/main.cpp.o CMakeFiles/CacheSim.dir/CacheSim.cpp.o  -o CacheSim 

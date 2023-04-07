@@ -1,0 +1,13 @@
+filelist: 
+     --CMakeLists.txt
+     --CacheSim.cpp
+     --CacheSim.h
+     --argparse.hpp
+     --gcc.trace
+
+Compile: 
+  --step1: cmake CMakeLists.txt
+  --step2: make all
+  --step3:./CacheSim --input gcc.trace
+
+
